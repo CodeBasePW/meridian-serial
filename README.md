@@ -14,4 +14,4 @@ FormatReader<T> reader = new FormatReader<T>();
 T object = reader.read(path);
 ```
 
-A full, working example can be found [here](../blob/master/meridian-serial/meridian-serial/src/me/moderator_man/meridian/serial/example).
+A full, working example can be found [here](https://github.com/CodeBasePW/meridian-serial/tree/master/meridian-serial/src/me/moderator_man/meridian/serial).
